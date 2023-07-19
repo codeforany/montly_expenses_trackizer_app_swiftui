@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "fb_btn.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "welcome_screen.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
